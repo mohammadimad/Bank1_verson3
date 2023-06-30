@@ -1,0 +1,123 @@
+﻿  Bank OOP.cpp
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\Bank OOP.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(24,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(28,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(37,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(59,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(61,33): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(73,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(75,33): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(85,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(86,31): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(94,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(110,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(125,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(129,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(143,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(156,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(171,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(205,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(218,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(235,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(262,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(357,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDate.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUtil.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUtil.h(13): warning C4091: 'static ': ignored on left of 'clsUtil::enCharType' when no variable is declared
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUtil.h(33,1): warning C4102: 'defualt': unreferenced label
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUtil.h(173,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUtil.h(179,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(122,32): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(22): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(199): warning C4091: 'static ': ignored on left of 'clsUser::enSaveResults' when no variable is declared
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(29,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(45,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\Bank OOP.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\Global.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsInputValidate.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsInputValidate.h(140,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsClientListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(126,34): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(111): message : see declaration of 'clsBankClient::stTransferRegisterRecord'
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(212): warning C4091: 'static ': ignored on left of 'clsBankClient::enSaveResults' when no variable is declared
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(21,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(119,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(120,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(121,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(265,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(272,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsClientListScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsClientListScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsAddNewClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsAddNewClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsAddNewClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeleteClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeleteClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeleteClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUpdateClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUpdateClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUpdateClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransactionsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransactionsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransactionsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeopsitScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeopsitScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeopsitScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransactionsScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsWithdrawScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsWithdrawScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsWithdrawScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransactionsScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTotalBalancesScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTotalBalancesScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTotalBalancesScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTotalBalancesScreen.h(39,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransferScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransferScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransferScreen.h(30,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransactionsScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransferLogScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTransactionsScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsAddNewUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsAddNewUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsAddNewUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsListUsersScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsListUsersScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsListUsersScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeleteUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeleteUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeleteUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsDeleteUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUpdateUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUpdateUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUpdateUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsManageUsersScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsLoginRegisterScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsLoginRegisterScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsLoginRegisterScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsLoginRegisterScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsLoginRegisterScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsCurrencyExchangeMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsCurrency.h(21,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(239): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(223): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(276): warning C4715: 'clsBankClient::WithDraw': not all control paths return a value
+  Bank OOP.vcxproj -> C:\Users\HP\source\repos\Bank OOP\Debug\Bank OOP.exe
