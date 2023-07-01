@@ -7,33 +7,25 @@ class clsInputValidate
 public:
 	
 	static bool IsNumberBetween(short Number, short from, short to) {
-		if (Number >= from && Number <= to)
-			return true;
-		else
-			return false;
+		
+		return (Number >= from && Number <= to) ? true : false;
 	}
 	static bool IsNumberBetween(int Number, int from, int to) {
-		if (Number >= from && Number <= to)
-			return true;
-		else
-			return false;
+		
+		return (Number >= from && Number <= to) ? true : false;
 	}
 	static bool IsNumberBetween(double Number, double from, double to) {
-		if (Number > from && to > Number)
-			return true;
-		else
-			return false;
+		
+		return (Number >= from && Number <= to) ? true : false;
 	}
 	static string ReadString() {
 		string S1 = "";
 		getline(cin >> ws, S1);
 		return S1;
 	}
-	static bool IsNumberBetween(float Number, float Number2, float to) {
-		if (Number > Number2 && to > Number)
-			return true;
-		else
-			return false;
+	static bool IsNumberBetween(float Number, float from, float to) {
+		
+		return (Number >= from && Number <= to) ? true : false;
 	}
 	static bool IsDateBetween(clsDate Date,clsDate Date2, clsDate Date3) {
 		if (clsDate::CompareDates(Date2, Date3) == clsDate::enDateCompare::Before) {
